@@ -58,9 +58,5 @@ desktop.ini
 *.tmp
 *.cache
 
-# Context files (AI planning - not for submission)
+# Context files (personal notes )
 .context/
-
-# Download scripts (not needed in submission)
-download_cifar10.py
-download_cifar10_simple.py
