@@ -1,1 +1,22 @@
-# Git ignore
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data and models (too large for git)
+data/
+*.pth
+*.pt
+
+# Results
+results/
+runs/
+
+# Virtual environment
+venv/
+env/
